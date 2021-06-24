@@ -1,0 +1,23 @@
+
+<!Doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Charu's website</title>
+</head>
+<body>
+<h3>Contact Details</h3>
+<ol>
+<li><strong>Email:</strong><em>charunya01@gmail.com</em></li>
+<li><strong>Phone number:</strong><em>9092298577</em></li>
+</ol>
+<hr>
+<form class="" action="index.html" method="post">
+<label> Name: </label>
+<input type = "text" name="" value="">
+<input type = "email" name="" value="">
+<input type = "password" name="" value="">
+<input type = "checkbox" name="" value="">
+<input type = "submit" name="" value="">
+</body>
+</html>

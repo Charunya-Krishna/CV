@@ -1,0 +1,23 @@
+<!Doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Charu's website</title>
+</head>
+<body>
+<img src="Passbook.jpg" alt="Passbook">
+<h1> CHARUNYA </h1>
+<p><em> Analyst at <strong><a href ="https://www.cerner.com/">CERNER</a></strong>.</em></p>
+<br>
+<p> I plan to complete the course in 50days and desrie to gain good grasp on the subject</p>
+<hr size="1" noshade>
+<h3> Books I'm interested in </h3>
+<ul>
+<li> The Alchemist </li>
+<l1> The Alchemist 1 </li>
+</ul>
+<strong><a href="Hobbies.html"> My Hobbies</a></strong>
+<hr>
+<strong><a href="Contact details.html"> Contact details</a></strong>
+</body>
+</html>

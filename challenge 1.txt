@@ -1,0 +1,22 @@
+<!DOCTYPE Html>
+<html>
+    <head>
+    <meta charset="UTF=8">
+    <title>Charu's website</title>
+    </head>
+    <body>
+        <h1>HTML Challenge</h1>
+        <hr size="1" noshade>
+        <a href= "https://www.w3schools.com/howto/howto_html_file_upload_button.asp">W3 schools</a>
+        <table>
+            <tr>
+                <td>One</td>
+                <td>two</td>
+            </tr>
+            <tr>
+               <td>Three</td> 
+               <td>Four</td>
+            </tr>
+        </table>
+    </body>
+</html>
